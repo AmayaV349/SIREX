@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+src/SIREX.App/sirex.db
+src/SIREX.App/sirex.db-*
